@@ -1,0 +1,18 @@
+﻿{
+  "email": {
+    "enabled": false,
+    "smtpHost": "smtp.gmail.com",
+    "smtpPort": 587,
+    "useSsl": true,
+    "username": "",
+    "password": "",
+    "from": "",
+    "to": ["kokpunv@gmail.com"],
+    "subject": "Отчёт: новые точки торговли и услуг в Акмолинской области"
+  },
+  "telegram": {
+    "enabled": false,
+    "botToken": "",
+    "chatId": ""
+  }
+}
